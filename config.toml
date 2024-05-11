@@ -1,6 +1,6 @@
 baseURL = 'http://blog.ankitjangwan.top/'
 languageCode = 'en-us'
-title = 'Ankit Jangwan - Blog'
+title = 'Ankit Jangwan'
 theme = "papermod"
 relativeURLs = true
 uglyURLs = true
